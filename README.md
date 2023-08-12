@@ -3,9 +3,21 @@ Final capstone project for Meta Front-end developer program on Coursera
 
 # Screenshot
 
+# Home Page
 
-About
+![Home snip](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/af0ba0d9-cf06-4d5e-9263-3da45c46e439)
+
+
+# About us
+
 ![About snip](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/b53f82e2-410b-4310-b6d1-976f3404c8b6)
+
+# Booking
+
+![reserve snip 1](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/371350e6-096e-4c01-9803-87c14f82cce8)
+![reserve snip 2](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/d5c860aa-e99c-4cb4-9833-d688c5716467)
+
+
 
 
 # Getting Started with Create React App
