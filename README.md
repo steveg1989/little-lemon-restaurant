@@ -4,7 +4,7 @@ Final capstone project for Meta Front-end developer program on Coursera
 # Screenshot
 
 
-
+About
 ![About snip](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/b53f82e2-410b-4310-b6d1-976f3404c8b6)
 
 
