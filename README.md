@@ -15,7 +15,8 @@ Final capstone project for Meta Front-end developer program on Coursera
 # Booking
 
 ![reserve snip 1](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/371350e6-096e-4c01-9803-87c14f82cce8)
-![reserve snip 2](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/d5c860aa-e99c-4cb4-9833-d688c5716467)
+![reserve snip 3](https://github.com/steveg1989/little-lemon-restaurant/assets/79769086/a82e7dc3-fd3c-46e4-a48f-74703e267088)
+
 
 
 
